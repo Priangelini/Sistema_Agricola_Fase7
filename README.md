@@ -1,36 +1,41 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
-<img src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/logo.png" alt="FIAP" width="200"/>
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
 
-## Sistema Agrícola Inteligente – Fase 7  
-**Grupo: Beginner Coders**
+<br>
 
----
+# Consolidação do Sistema Agrícola
 
-### 👩‍💻 Integrantes:
-- Luana Porto Pereira Gomes  
-- Luma Oliveira  
-- Priscilla Oliveira  
-- Paulo Bernardes  
+## Beginner Coders
 
 ---
 
-### 👨‍🏫 Professores:
-**Tutor:**  
-- [Leonardo Ruiz](https://github.com/leoruiz197)
-
-**Coordenador:**  
-- André Godoi
+## 👨‍🎓 Integrantes: 
+- <a href="https://www.linkedin.com/in/luana-porto-pereira-gomes/">Luana Porto Pereira Gomes</a>
+- <a href="https://www.linkedin.com/in/luma-x">Luma Oliveira</a>
+- <a href="https://www.linkedin.com/in/priscilla-oliveira-023007333/">Priscilla Oliveira </a>
+- <a href="https://www.linkedin.com/in/paulobernardesqs?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Paulo Bernardes</a> 
 
 ---
 
-### 📚 Descrição
+## 👨‍🏫 Professores:
+### Tutor:
+- <a href="https://www.linkedin.com/in/leonardoorabona/">Leonardo Ruiz</a>
+
+### Coordenador:
+- <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi</a>
+
+---
+
+## 📜 Descrição
 
 Este projeto consolida todas as entregas das Fases 1 a 6 do curso de Inteligência Artificial da FIAP em um sistema integrado para gestão agrícola. O sistema permite calcular insumos, gerenciar sensores de irrigação, visualizar dados em tempo real via dashboard, realizar classificações com visão computacional e emitir alertas via AWS.
 
 ---
 
-### 🌱 Sobre o Projeto
+## 📝 Sobre o Projeto
 
 Cada fase do projeto foi integrada em um sistema coeso e funcional:
 
@@ -43,7 +48,7 @@ Cada fase do projeto foi integrada em um sistema coeso e funcional:
 
 ---
 
-### 📁 Estrutura de Pastas
+## 📁 Estrutura de Pastas
 
 ```
 fase7-sistema-agricola/
@@ -61,40 +66,25 @@ fase7-sistema-agricola/
 
 ---
 
-### 🖥️ Como Executar o Projeto
+## 🖥️ Como Executar o Projeto
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/SeuUsuario/Sistema_Agricola_Fase7.git
-cd Sistema_Agricola_Fase7
-```
-
-2. Instale as dependências:
-```bash
-pip install -r requirements.txt
-```
-
-3. Rode a aplicação:
-```bash
-streamlit run main.py
-```
 
 ---
 
-### ☁️ Integração com a AWS
+## ☁️ Integração com a AWS
 
 Utilizamos o **Amazon SNS** para envio de alertas automáticos com base nos dados de sensores e visão computacional.  
 📷 *Prints e comentários estão na pasta `/fase5_aws_servicos/`.*
 
 ---
 
-### 🎥 Vídeo de Demonstração
+## 🎥 Vídeo de Demonstração
 
-[📺 Clique aqui para assistir no YouTube](https://youtu.be/SEULINK)
+[📺 Clique aqui para assistir no YouTube](https://youtu.be/)
 
 ---
 
-### 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 - Python, Streamlit
 - Oracle Database
 - ESP32 (simulado)
