@@ -67,7 +67,9 @@ fase7-sistema-agricola/
 ---
 
 ## 🖥️ Como Executar o Projeto
-
+- Fazer download das pastas
+- Instalar as bibliotecas necessárias
+- Executar em alguma IDE
 
 ---
 
